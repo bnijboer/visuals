@@ -1,0 +1,29 @@
+html, body {
+      width: 100%;
+      margin: 0;
+      outline: none;
+      background-size: cover;
+}
+
+.container {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      outline: none;
+      background-size: cover;
+}
+
+.color-panel {
+      height: 65px;
+      width: 5%;
+      border: 1px solid black;
+      float: left;
+      -webkit-transition: background 0.5s ease-out;
+      -moz-transition: background 0.5s ease-out;
+      -ms-transition: background 0.5s ease-out;
+      -o-transition: background 0.5s ease-out;
+      transition: background 0.5s ease-out;
+      outline: none;
+      background-size: cover;
+
+}
